@@ -1,15 +1,13 @@
-# Website Building Projects
+# Overview
 
-This repository contains a collection of small HTML and CSS projects for building websites. Each project focuses on different aspects of web development and can serve as a learning resource or source of inspiration.
+This repository contains a collection of small websites which I built along the way when I was learning HTML and CSS. Each project focuses on different aspects of web development and can serve as a learning resource or source of inspiration. 
 
 ## Project Structure
 
 The projects in this repository are organized as follows:
 
-- [Project 1](project1/): Brief description of the project.
-- [Project 2](project2/): Brief description of the project.
-- [Project 3](project3/): Brief description of the project.
-- ...
+- [Project 1](Cafe Menu/): I learnt CSS by designing a menu page for a cafe webpage.
+
 
 ## Installation
 
