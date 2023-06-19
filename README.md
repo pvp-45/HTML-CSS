@@ -6,7 +6,7 @@ This repository contains a collection of small websites which I built along the 
 
 The projects in this repository are organized as follows:
 
-- [Cafe Menu](Cafe Menu/): I learnt CSS by designing a menu page for a cafe webpage.
+- [Cafe Menu](CafeMenu/): I learnt CSS by designing a menu page for a cafe webpage.
 
 
 ## Installation
