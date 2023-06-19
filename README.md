@@ -7,6 +7,7 @@ This repository contains a collection of small websites which I built along the 
 The projects in this repository are organized as follows:
 
 - [Cafe Menu](CafeMenu/): I learnt CSS by designing a menu page for a cafe webpage.
+- [Cat Photo App](CatPhotoApp/): A webpage which includes all the basic concepts that I learned in HTML.
 
 
 ## Installation
